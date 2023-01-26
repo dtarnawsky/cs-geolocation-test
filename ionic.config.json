@@ -1,0 +1,7 @@
+{
+  "name": "cs-geo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
